@@ -17,6 +17,9 @@ The goal of these analyses is to gain insights into the bank's loan portfolio. B
 
 # DataSet 
 
+# Tools  Used
+Microsoft Excel for data cleaning and manipulation, and PowerBI for data visualization and insights.
+
 # PowerBI DashBoard Link
 https://www.novypro.com/project/analyzing-bank-loans-agingclassificationmovement
 
