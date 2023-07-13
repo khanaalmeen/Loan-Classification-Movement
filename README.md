@@ -16,6 +16,7 @@ The goal of these analyses is to gain insights into the bank's loan portfolio. B
 
 
 # DataSet 
+https://github.com/khanaalmeen/Loan-Classification-Movement-With-PowerBI/blob/main/Bank%20Loans%20by%20Aging%20Buckets.xlsx
 
 # Tools  Used
 Microsoft Excel for data cleaning and manipulation, and PowerBI for data visualization and insights.
